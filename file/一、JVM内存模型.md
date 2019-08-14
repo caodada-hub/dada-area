@@ -122,7 +122,11 @@
   ​		方法区中常量引用的对象。
 
   ​		本地方法栈 JNI（即 Native方法）引用的对象。
-      引申:一个Native Method就是一个java调用非java代码的接口。一个Native Method是这样一个java的方法：该方法的实现由非java语言实现，比如C。
+  
+  
+     引申:一个Native Method就是一个java调用非java代码的接口。一个Native Method是这样一个java的方法：该方法的实现由非java语言实现，比如C。
+      
+     [NATIVE METHOD介绍](Native方法.md)
 
 - 判断对象真正死亡：
 
