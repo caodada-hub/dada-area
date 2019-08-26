@@ -1,5 +1,3 @@
-借鉴 https://github.com/Yangyi0011 这位仁兄的稿子,后续完善并且加入个人撞墙后的领悟
-
 # 一、[JVM相关](file/一、JVM内存模型.md)
 
 # 二、[集合框架](file/二、集合框架.md)
